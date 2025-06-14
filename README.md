@@ -1,3 +1,2 @@
-.env
-__pycache__/
-*.pyc
+# InterviewQuestionsGeneratorAi
+Interview Questions Generator Ai
